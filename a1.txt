@@ -1,2 +1,4 @@
 FIX HOT abcdef
 el otro usuario agrega esto
+RESUELVO REQ01
+RESUELVO REQ02
